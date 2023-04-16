@@ -14,4 +14,4 @@ demo_ptrpca_video.m : Background Modeling
 
 # Gratitude
 
-The authors would like to thank Canyi Lu [https://canyilu.github.io] and Wei Xia [https://github.com/xdweixia/TPAMI2020_ETRPCA] for their generous sharing of code.
+The authors would like to thank [Canyi Lu](https://canyilu.github.io) and [Wei Xia](https://github.com/xdweixia/TPAMI2020_ETRPCA) for their generous sharing of code.
