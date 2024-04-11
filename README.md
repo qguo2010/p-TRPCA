@@ -1,8 +1,8 @@
-# TRPCA via Schatten p-norm and lp-norm
+# TRPCA via Dual Lp Quasi-norm Sparse Constraints
 
 This is a demo for the following paper
 
-T. Yan and Q. Guo, Tensor Robust Principal Component Analysis via Dual lp-norm Quasi-norm Sparse Constraints, Digital Signal Processing, Accepted, 2024.
+T. Yan and Q. Guo, Tensor Robust Principal Component Analysis via Dual Lp Quasi-norm Sparse Constraints, *Digital Signal Processing*, Accepted, 2024.
 
 # Run
 
