@@ -2,7 +2,7 @@
 
 This is a demo for the following paper
 
-T. Yan and Q. Guo, Tensor Robust Principal Component Analysis via Weighted Tensor Schatten p-norm and lp-norm, Submitted 2023.
+T. Yan and Q. Guo, Tensor Robust Principal Component Analysis via Dual lp-norm Quasi-norm Sparse Constraints, Digital Signal Processing, Accepted, 2024.
 
 # Run
 
