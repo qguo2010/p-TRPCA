@@ -2,7 +2,7 @@
 
 This is a demo for the following paper
 
-T. Yan and Q. Guo, Tensor robust principal component analysis via dual lp quasi-norm sparse constraints, *Digital Signal Processing*, Accepted, 2024.
+T. Yan and Q. Guo, [Tensor robust principal component analysis via dual lp quasi-norm sparse constraints](https://www.sciencedirect.com/science/article/pii/S1051200424001453), *Digital Signal Processing*, 104520, 2024.
 
 
 # Run
